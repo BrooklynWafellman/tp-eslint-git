@@ -54,3 +54,21 @@ npm run lint
 
 > tp-eslint-git@1.0.0 lint
 > eslint .
+
+## 6.
+### 3.
+
+npx eslint --fix .
+
+C:\Users\brook\Documents\Outils_pratiques_code\tp-eslint-git\index.js
+   3:3  warning  Unexpected console statement  no-console
+  11:5  warning  Unexpected console statement  no-console
+  17:1  warning  Unexpected console statement  no-console
+  22:3  warning  Unexpected console statement  no-console
+  33:3  warning  Unexpected console statement  no-console
+  37:3  warning  Unexpected console statement  no-console
+  48:3  warning  Unexpected console statement  no-console
+  49:3  warning  Unexpected console statement  no-console
+  53:3  warning  Unexpected console statement  no-console
+
+✖ 11 problems (0 errors, 11 warnings)
